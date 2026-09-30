@@ -1,1 +1,2 @@
-# Veri_Tabani_Yonetimi_Projesi
+# Veri Tabanı Yönetimi Projesi - Restoran Yönetim ve Sipariş Otomasyon Sistemi
+Restoran işletmelerindeki masaların, ürün kategorilerinin, menülerin, siparişlerin ve ödeme süreçlerinin dijital ortamda yönetilebildiği, ilişkisel bir veritabanı altyapısına sahip web tabanlı bir otomasyon sistemidir. Projenin temel amacı, müşterilerin masalardan pratik bir şekilde sipariş verebilmesini, mutfak ve yönetim ekibinin ise bu süreci ve masa durumlarını düzenli ve kolay bir şekilde takip edebileceği bir yapı oluşturmaktır.
