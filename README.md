@@ -35,7 +35,6 @@ Veri Tabanı: Proje veri tabanı 8 tablodan oluşmaktadır.
 
 
 ER Diyagramı:
-Veritabanındaki tablolar, öznitelikler ve tablolar arasındaki ilişkiler aşağıdaki ER diyagramında gösterilmiştir.
 
 ![ER Diyagramı](https://github.com/user-attachments/assets/f2c3b31f-959d-403d-9469-62e8c83a9b69)
 
