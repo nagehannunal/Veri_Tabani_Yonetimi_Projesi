@@ -22,3 +22,22 @@ Günlük ciro, ödeme takibi ve geçmiş sipariş raporlama.
 Rezervasyon Yönetimi:
 İleri tarihli masa rezervasyonlarının alınması ve takibi.
 
+Veri Tabanı:
+Proje veri tabanı 8 tablodan oluşmaktadır.
+1.kategoriler: Menüde bulunan ürün kategorilerinin ad ve açıklama bilgilerini tutar.
+2.urunler: Restoranda satışa sunulan ürünlerin ad, fiyat, açıklama ve görsel bilgilerini tutar.
+3.masalar: Restorandaki masaların numara, kapasite, durum ve QR kod bilgilerini tutar.
+4.kullanicilar: Sistemde görev alan kullanıcıların ad, kullanıcı adı, şifre ve rol bilgilerini tutar.
+5.siparisler: Masalara ait siparişlerin toplam tutar, durum ve oluşturulma tarihi bilgilerini tutar.
+6.siparisdetaylari: Siparişlerde bulunan ürünlerin adet ve birim fiyat bilgilerini tutar.
+7.odemeler: Siparişlere ait ödeme tutarı, ödeme türü ve ödeme tarihi bilgilerini tutar.
+8.masarezervasyonlari: Masa rezervasyonlarına ait müşteri adı, telefon, rezervasyon tarihi ve kişi sayısı bilgilerini tutar.
+
+
+ER Diyagramı:
+Veritabanındaki tablolar, öznitelikler ve tablolar arasındaki ilişkiler aşağıdaki ER diyagramında gösterilmiştir.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/743d449e-28ee-4849-8b3c-cbe9cc52fbde" width="100%" alt="ER Diyagramı">
+</p>
+
