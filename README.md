@@ -14,7 +14,7 @@ Mutfak Paneli:
 Masalardan gelen siparişlerin mutfak ekranına anlık olarak düşmesi.
 Sipariş durumlarının güncellenmesi (Hazırlanıyor / Hazır).
 
-Yönetici ve Kasa Paneli (Admin):
+Yönetici ve Kasa Paneli:
 Menü, ürün fiyatları ve kategori yönetimi.
 Masa durumlarının takibi (Boş / Dolu).
 Günlük ciro, ödeme takibi ve geçmiş sipariş raporlama.
@@ -24,6 +24,7 @@ Rezervasyon Yönetimi:
 
 Veri Tabanı:
 Proje veri tabanı 8 tablodan oluşmaktadır.
+
 1.kategoriler: Menüde bulunan ürün kategorilerinin ad ve açıklama bilgilerini tutar.
 2.urunler: Restoranda satışa sunulan ürünlerin ad, fiyat, açıklama ve görsel bilgilerini tutar.
 3.masalar: Restorandaki masaların numara, kapasite, durum ve QR kod bilgilerini tutar.
